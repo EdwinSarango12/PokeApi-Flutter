@@ -8,8 +8,8 @@ Este repositorio contiene una aplicación Flutter creada como actividad práctic
 ---
 ## RESULTADOS
 
-  Enlace del video [video]()
-  Enlace del Apk: [apk]()
+- Enlace del video [video]()
+- Enlace del Apk: [apk](build/app/outputs/flutter-apk)
 
 ---
 
