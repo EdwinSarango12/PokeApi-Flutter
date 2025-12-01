@@ -1,5 +1,4 @@
-# Pokémon API Flutter - Proyecto de prácticas
-
+# Pokémon API Flutter - Proyecto
 Este repositorio contiene una aplicación Flutter creada como actividad práctica. El proyecto incluye dos actividades diferenciadas que consumen APIs públicas:
 
 - Actividad 1: Aplicación para buscar y mostrar Pokémons con todas sus características, incluida la imagen.
