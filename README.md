@@ -107,14 +107,6 @@ Implementación de un visualizador que consume la [Dog API](https://dog.ceo/dog-
 - **PokemonSearch**: Widget `Stateful` que maneja la lógica de búsqueda y visualización de datos de Pokémon.
 - **DogViewer**: Widget `Stateful` que realiza peticiones para obtener y mostrar imágenes de perros.
 
-### Buscador de Pokémon
-![Captura Pokémon](ruta/a/tu/captura_pokemon.png)
-*(Adjuntar aquí captura de la búsqueda de un Pokémon)*
-
-### Visualizador de Perros
-![Captura Perros](ruta/a/tu/captura_perros.png)
-*(Adjuntar aquí captura del visualizador de perros)*
-
 ## Instrucciones de Ejecución
 
 1. Clonar el repositorio.
